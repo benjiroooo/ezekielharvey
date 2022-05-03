@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezekielharvey
 - 👀 I’m interested in Developing Mobile Applications
-- 🌱 I’m currently learning Kotlin & Android Studio
-- 💞️ I’m looking to collaborate on Creating Android Applications
+- 🌱 I’m currently learning React Native Developement
+- 💞️ I’m looking to collaborate on React Native Applications
 - 📫 How to reach me zekeharvey@outlook.com
 
 <!---
