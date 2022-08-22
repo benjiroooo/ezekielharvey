@@ -25,16 +25,14 @@ I’m a full-stack developer who has turned years of developing software into a 
   
 
 - 🌱 I’m currently learning React Native & TypeScript  
-  
+
+
+</td><td valign="top" width="50%">
 
 - ❓ Ask me about anything related to React Native or Mobile Dev  
   
 
 - ⚡ Fun fact: I make music  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -94,8 +92,3 @@ I’m a full-stack developer who has turned years of developing software into a 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<!---
-ezekielharvey/ezekielharvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
