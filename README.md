@@ -1,12 +1,14 @@
-## Hey 👋, I'm Ezekiel Harvey!  
+## <div align="center">Hey 👋, I'm Ezekiel Harvey!</div>  
   
 
+<div align="center">
 <a href="https://github.com/ezekielharvey" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ezekiel-harvey" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 
@@ -82,7 +84,9 @@ I’m a full-stack developer who has turned years of developing software into a 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ezekielharvey&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ezekielharvey&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
