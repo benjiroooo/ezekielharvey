@@ -89,11 +89,3 @@ I’m a full-stack developer who has turned years of developing software into a 
 <img src="https://komarev.com/ghpvc/?username=ezekielharvey&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
